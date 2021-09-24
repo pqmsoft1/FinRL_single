@@ -140,5 +140,4 @@ dmypy.json
 
 *events.out.tfevents.*
 *.csv
-*.zip
 *.png
